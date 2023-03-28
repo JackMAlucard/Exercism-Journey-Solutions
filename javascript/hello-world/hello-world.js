@@ -1,8 +1,7 @@
-//
-// This is only a SKELETON file for the 'Hello World' exercise. It's been provided as a
-// convenience to get you started writing code faster.
-//
-
+// Function that returns the string 'Hello, World!'
 export function hello() {
-  return 'Goodbye, Mars!';
+  return 'Hello, World!';
 }
+
+//Calling the function is not necessary since the test checks it directly
+//hello();

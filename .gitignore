@@ -1,0 +1,8 @@
+# Compiled source #
+###################
+#*.o
+#*.mod
+
+# Directories #
+#######################
+node_modules/
